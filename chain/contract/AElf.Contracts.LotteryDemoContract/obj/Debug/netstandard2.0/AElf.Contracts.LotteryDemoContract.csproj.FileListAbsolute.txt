@@ -1,0 +1,16 @@
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\bin\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.deps.json
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\bin\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.dll
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\bin\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.pdb
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.csprojAssemblyReference.cache
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.AssemblyInfoInputs.cache
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.AssemblyInfo.cs
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.dll
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\bin\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.deps.json
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\bin\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\bin\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.csprojAssemblyReference.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.AssemblyInfoInputs.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.AssemblyInfo.cs
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.LotteryDemoContract\obj\Debug\netstandard2.0\AElf.Contracts.LotteryDemoContract.pdb

@@ -1,0 +1,8 @@
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.DigitalIDContract\obj\Debug\netstandard2.0\AElf.Contracts.DigitalIDContract.csprojAssemblyReference.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.DigitalIDContract\obj\Debug\netstandard2.0\AElf.Contracts.DigitalIDContract.AssemblyInfoInputs.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.DigitalIDContract\obj\Debug\netstandard2.0\AElf.Contracts.DigitalIDContract.AssemblyInfo.cs
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.DigitalIDContract\bin\Debug\netstandard2.0\AElf.Contracts.DigitalIDContract.deps.json
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.DigitalIDContract\bin\Debug\netstandard2.0\AElf.Contracts.DigitalIDContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.DigitalIDContract\bin\Debug\netstandard2.0\AElf.Contracts.DigitalIDContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.DigitalIDContract\obj\Debug\netstandard2.0\AElf.Contracts.DigitalIDContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.DigitalIDContract\obj\Debug\netstandard2.0\AElf.Contracts.DigitalIDContract.pdb

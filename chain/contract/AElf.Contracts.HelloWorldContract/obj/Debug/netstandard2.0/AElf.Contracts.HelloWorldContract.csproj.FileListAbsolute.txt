@@ -1,0 +1,16 @@
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\bin\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.deps.json
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\bin\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.dll
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\bin\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.pdb
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.csprojAssemblyReference.cache
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.AssemblyInfoInputs.cache
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.AssemblyInfo.cs
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.dll
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\bin\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.deps.json
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\bin\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\bin\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.csprojAssemblyReference.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.AssemblyInfoInputs.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.AssemblyInfo.cs
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.HelloWorldContract\obj\Debug\netstandard2.0\AElf.Contracts.HelloWorldContract.pdb

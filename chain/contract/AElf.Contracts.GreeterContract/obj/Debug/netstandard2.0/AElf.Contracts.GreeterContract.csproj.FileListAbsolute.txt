@@ -1,0 +1,16 @@
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\bin\Debug\netstandard2.0\AElf.Contracts.GreeterContract.deps.json
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\bin\Debug\netstandard2.0\AElf.Contracts.GreeterContract.dll
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\bin\Debug\netstandard2.0\AElf.Contracts.GreeterContract.pdb
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.csprojAssemblyReference.cache
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.AssemblyInfoInputs.cache
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.AssemblyInfo.cs
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.dll
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\bin\Debug\netstandard2.0\AElf.Contracts.GreeterContract.deps.json
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\bin\Debug\netstandard2.0\AElf.Contracts.GreeterContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\bin\Debug\netstandard2.0\AElf.Contracts.GreeterContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.csprojAssemblyReference.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.AssemblyInfoInputs.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.AssemblyInfo.cs
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.GreeterContract\obj\Debug\netstandard2.0\AElf.Contracts.GreeterContract.pdb

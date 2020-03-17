@@ -1,0 +1,16 @@
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\bin\Debug\netstandard2.0\AElf.Contracts.Deployer.deps.json
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\bin\Debug\netstandard2.0\AElf.Contracts.Deployer.dll
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\bin\Debug\netstandard2.0\AElf.Contracts.Deployer.pdb
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.csprojAssemblyReference.cache
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.AssemblyInfoInputs.cache
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.AssemblyInfo.cs
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.dll
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.pdb
+G:\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\bin\Debug\netstandard2.0\AElf.Contracts.Deployer.deps.json
+G:\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\bin\Debug\netstandard2.0\AElf.Contracts.Deployer.dll
+G:\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\bin\Debug\netstandard2.0\AElf.Contracts.Deployer.pdb
+G:\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.csprojAssemblyReference.cache
+G:\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.AssemblyInfoInputs.cache
+G:\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.AssemblyInfo.cs
+G:\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.dll
+G:\aelf-boilerplate\chain\src\AElf.Contracts.Deployer\obj\Debug\netstandard2.0\AElf.Contracts.Deployer.pdb

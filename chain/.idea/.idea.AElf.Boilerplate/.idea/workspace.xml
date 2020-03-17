@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ace3288-9adb-4bb9-b939-566d76068c8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/AElf.Contracts.DigitalIDContract.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/DigitalIDContract.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/DigitalIDContractState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protobuf/digitalID.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/GenesisSmartContractDtoProvider_DigitalID.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AElf.Boilerplate.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AElf.Boilerplate.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AElf.Boilerplate.Launcher/AElf.Boilerplate.Launcher.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/AElf.Boilerplate.Launcher/AElf.Boilerplate.Launcher.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/AElf.Boilerplate.Mainchain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/AElf.Boilerplate.Mainchain.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test/AElf.Contracts.BingoGameContract.Test/BingoGameContractTestBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/DigitalIDContractState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/GenesisSmartContractDtoProvider_Profit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/contract/AElf.Contracts.RandomDemoContract/RandomDemoContract.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/Protobuf/Generated/DigitalID.c.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/AElf.Contracts.GreeterContract.Tests/GreeterContractTestBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/GenesisSmartContractDtoProvider_Token.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/GenesisSmartContractDtoProvider_Election.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/GenesisSmartContractDtoProvider_DigitalID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/contract/AElf.Contracts.BingoGameContract/BingoGameContract.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/DigitalIDContract.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/AElf.Boilerplate.Launcher/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/Class1.cs" />
+        <option value="$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/AElf.Contracts.DigitalIDContract.csproj" />
+        <option value="$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/DigitalIDContractState.cs" />
+        <option value="$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/GenesisSmartContractDtoProvider_DigitalID.cs" />
+        <option value="$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/AElf.Boilerplate.Mainchain.csproj" />
+        <option value="$PROJECT_DIR$/src/AElf.Boilerplate.Launcher/AElf.Boilerplate.Launcher.csproj" />
+        <option value="$PROJECT_DIR$/protobuf/digitalID.proto" />
+        <option value="$PROJECT_DIR$/contract/AElf.Contracts.DigitalIDContract/DigitalIDContract.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YjkHclW5hiRK67T8EKOC32ny0X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_solution_notification" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AElf.Boilerplate.Launcher" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/AElf.Boilerplate.Launcher/AElf.Boilerplate.Launcher.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ace3288-9adb-4bb9-b939-566d76068c8d" name="Default Changelist" comment="" />
+      <created>1583463304484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583463304484</updated>
+      <workItem from="1583463308488" duration="886000" />
+      <workItem from="1583465104203" duration="455000" />
+      <workItem from="1583465639273" duration="544000" />
+      <workItem from="1583466388023" duration="539000" />
+      <workItem from="1583467155750" duration="1298000" />
+      <workItem from="1583470562017" duration="513000" />
+      <workItem from="1583471649004" duration="3808000" />
+      <workItem from="1583478279750" duration="3025000" />
+      <workItem from="1583481923957" duration="1110000" />
+      <workItem from="1583543774693" duration="14523000" />
+      <workItem from="1583630568172" duration="9109000" />
+      <workItem from="1583661911213" duration="6742000" />
+      <workItem from="1583826499380" duration="3249000" />
+      <workItem from="1584085295065" duration="570000" />
+      <workItem from="1584155794980" duration="956000" />
+      <workItem from="1584158195922" duration="1977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="130" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1583481342394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="130" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583481342394" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584162345386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584162345386" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584162345386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584162345386" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584162345386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584162345386" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584162345386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584162345386" />
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size" timestamp="1583546009571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1583546009571" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1583474180493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583474180493" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/GenesisSmartContractDtoProvider_DigitalID.cs</url>
+          <line>11</line>
+          <properties documentPath="$PROJECT_DIR$/src/AElf.Boilerplate.Mainchain/GenesisSmartContractDtoProvider_DigitalID.cs" initialLine="7">
+            <startOffsets>
+              <option value="319" />
+            </startOffsets>
+            <endOffsets>
+              <option value="320" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

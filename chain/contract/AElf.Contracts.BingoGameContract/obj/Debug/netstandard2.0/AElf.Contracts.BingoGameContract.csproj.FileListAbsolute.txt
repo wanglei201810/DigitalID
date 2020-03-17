@@ -1,0 +1,15 @@
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\bin\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.deps.json
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\bin\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.dll
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\bin\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.pdb
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.AssemblyInfoInputs.cache
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.AssemblyInfo.cs
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.dll
+C:\Users\wanglei\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\bin\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.deps.json
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\bin\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\bin\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.pdb
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.csprojAssemblyReference.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.AssemblyInfoInputs.cache
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.AssemblyInfo.cs
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.dll
+G:\aelf-boilerplate\chain\contract\AElf.Contracts.BingoGameContract\obj\Debug\netstandard2.0\AElf.Contracts.BingoGameContract.pdb

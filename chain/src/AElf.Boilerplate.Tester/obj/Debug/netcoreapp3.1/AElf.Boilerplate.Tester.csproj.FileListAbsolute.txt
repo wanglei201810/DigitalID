@@ -1,0 +1,16 @@
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\bin\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.deps.json
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\bin\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.dll
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\bin\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.pdb
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.csprojAssemblyReference.cache
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.AssemblyInfoInputs.cache
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.AssemblyInfo.cs
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.dll
+C:\Users\wanglei\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.pdb
+G:\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\bin\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.deps.json
+G:\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\bin\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.dll
+G:\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\bin\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.pdb
+G:\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.csprojAssemblyReference.cache
+G:\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.AssemblyInfoInputs.cache
+G:\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.AssemblyInfo.cs
+G:\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.dll
+G:\aelf-boilerplate\chain\src\AElf.Boilerplate.Tester\obj\Debug\netcoreapp3.1\AElf.Boilerplate.Tester.pdb
